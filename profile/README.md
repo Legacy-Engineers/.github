@@ -1,6 +1,6 @@
 # Welcome to Legacy Engineers
 
-**Legacy Engineers** is a community-driven organization where developers, tech enthusiasts, and innovators come together to build, learn, and collaborate on open-source projects.
+**Legacy Engineers** is Dawda Borje Kujabi's personal organization to create, learn, collaborate, and share knowledge.
 
 🌟 **What We Do:**
 - Build impactful open-source projects
