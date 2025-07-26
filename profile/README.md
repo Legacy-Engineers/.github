@@ -1,6 +1,6 @@
 # Welcome to Legacy Engineers
 
-**Legacy Engineers** is Dawda Borje Kujabi's personal organization to create, learn, collaborate, and share knowledge.
+**Legacy Engineers** is [Dawda Borje Kujabi's](https://github.com/Dawdaborje) personal organization to create, learn, collaborate, and share knowledge.
 
 🌟 **What We Do:**
 - Build impactful open-source projects
